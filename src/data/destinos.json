@@ -1,0 +1,49 @@
+[
+    {
+        "id": "1",
+        "nome": "Promo Austrália (Perth + Gold Coast)",
+        "descrição": "Conheça esse país ensolarado, sua costa com abundantes praias e seus animais exóticos.",
+        "preço": "R$ 8.850,00",
+        "foto": "https://images.pexels.com/photos/5707602/pexels-photo-5707602.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+
+    {
+        "id": "2",
+        "nome": "Promo Nova Zelândia (Auckland + Queenstown)",
+        "descrição": "De locações de grandes filmes em lugares incríveis, ou do surfe ao snowboard, encontre tudo isso num lugar só.",
+        "preço": "R$ 8.450,00",
+        "foto": "https://images.pexels.com/photos/2259917/pexels-photo-2259917.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+
+    {
+        "id": "3",
+        "nome": "Perth",
+        "descrição": "Costa Oeste Austrália.",
+        "preço": "R$ 4.500,00",
+        "foto": "https://images.pexels.com/photos/3507802/pexels-photo-3507802.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+
+    {
+        "id": "4",
+        "nome": "Gold Coast",
+        "descrição": "Costa Leste da Austrália.",
+        "preço": "R$ 5.500,00",
+        "foto": "https://images.pexels.com/photos/1089167/pexels-photo-1089167.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+
+    {
+        "id": "5",
+        "nome": "Auckland",
+        "descrição": "Ilha norte da Nova Zelândia.",
+        "preço": "R$ 4.300,00",
+        "foto": "https://images.pexels.com/photos/5342974/pexels-photo-5342974.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+
+    {
+        "id": "6",
+        "nome": "Queenstown",
+        "descrição": "Ilha sul da Nova Zelândia.",
+        "preço": "R$ 5.300,00",
+        "foto": "https://images.pexels.com/photos/724963/pexels-photo-724963.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+]
